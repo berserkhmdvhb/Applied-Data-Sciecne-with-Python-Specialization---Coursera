@@ -5,10 +5,10 @@ The solutions and implementations of each course will be added to this repositor
 
 ## Specialization Courses and solutions
 1. [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)
-   - [Solution to Week 1](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week1/Assignment/assignment1-solution.ipynb)
-   - [Solution to Week 2](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week2/Assignment/assignment2-solution.ipynb)
-   - [Solution to Week 3](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week3/Assignment/assignment3-solution.ipynb)
-   - [Solution to Week 4](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week4/Assignment/assignment4-solution.ipynb)
+   - [x] [Solution to Week 1](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week1/Assignment/assignment1-solution.ipynb)
+   - [x] [Solution to Week 2](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week2/Assignment/assignment2-solution.ipynb)
+   - [x] [Solution to Week 3](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week3/Assignment/assignment3-solution.ipynb)
+   - [x] [Solution to Week 4](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week4/Assignment/assignment4-solution.ipynb)
 2. [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)
 3. [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python)
 4. [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
