@@ -3,7 +3,7 @@ This repository servers as an archive for remembering the tricks and solutions I
 The solutions and implementations of each course will be added to this repository.
 ## I strongly recommend to think on and implement the assignments by yourself and then check the solutions. Please respect the [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863)
 
-## Specialization Courses and Solutions
+## Courses and Solutions
 1. [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)
    - [x] [Solution to Week 1](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week1/Assignment/assignment1-solution.ipynb)
    - [x] [Solution to Week 2](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week2/Assignment/assignment2-solution.ipynb)
