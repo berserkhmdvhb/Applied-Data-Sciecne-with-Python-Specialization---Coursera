@@ -10,7 +10,7 @@ The solutions and implementations of each course will be added to this repositor
    - [x] [Solution to Week 3](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week3/Assignment/assignment3-solution.ipynb)
    - [x] [Solution to Week 4](https://github.com/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course1/Week4/Assignment/assignment4-solution.ipynb)
 2. [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)
-   - [x] [Solution to Week 1](https://www.coursera.org/learn/python-plotting/peer/KOk5G/graphics-lies-misleading-visuals/review/Wr-3iynCEeuIDAqxExOz0Q) (only accessible to enrolled participants of course)
+   - [x] [Solution to Week 1](https://www.coursera.org/learn/python-plotting/peer/KOk5G/graphics-lies-misleading-visuals/review/Wr-3iynCEeuIDAqxExOz0Q) (Accessible to enrolled participants of the course)
    - [x] [Solution to Week 2](https://nbviewer.jupyter.org/github/berserkhmdvhb/Data-Sciecne-with-Python/blob/main/Course2/Week2/Assignment/Assignment2-solution.ipynb)
 3. [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python)
    - [ ] Solution to Week 1
